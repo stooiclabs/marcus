@@ -731,6 +731,13 @@
   align-items: stretch;
 }
 
+.specialitieslink {
+  color: #2577df;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+
 html.w-mod-js *[data-ix="hover-project"] {
   -webkit-transform: translate(0px, 0px);
   -ms-transform: translate(0px, 0px);
